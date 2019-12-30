@@ -1,6 +1,6 @@
 # Debouncing with React Middleware
 
-This repository accompanies the blog post, [Debouncing with Redux Middleware](https://typeofnan.dev/debouncing-with-redux-middleware/).
+This repository accompanies the blog post [Debouncing with Redux Middleware](https://typeofnan.dev/debouncing-with-redux-middleware/).
 
 ## Introduction
 
